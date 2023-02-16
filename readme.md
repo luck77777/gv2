@@ -6,4 +6,4 @@ Indexed using the python script included.
 
 ---
 
-This was forked from [LQ16's repository](https://github.com/LQ16/gfiles), which is long deleted.
+This was forked from [BinBashBanana's repository](https://github.com/binbashbanana/gfiles) because i wanted to update ruffle.
